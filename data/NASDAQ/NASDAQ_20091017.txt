@@ -1,0 +1,2 @@
+<ticker>,<date>,<open>,<high>,<low>,<close>,<vol>
+MDM,20091017,2.72,2.74,2.64,2.74,0
